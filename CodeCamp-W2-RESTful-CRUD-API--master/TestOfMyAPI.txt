@@ -1,0 +1,18 @@
+start server
+#npm run dev or node index.js
+
+test update
+http://localhost:3000/api/users/bcd68f62-22ae-425e-9b03-ea8b5a8b5186
+
+test delete (according to id you have in your json)
+http://localhost:3000/api/users/bcd68f62-22ae-425e-9b03-ea8b5a8b5186
+
+create user(in json)
+http://localhost:3000/api/users/
+
+display data in json 
+http://localhost:3000/api/users/
+
+find one user in json(given id exist in our json)
+http://localhost:3000/api/users/bae50942-b214-49b1-a8ec-d58e08948b87
+
